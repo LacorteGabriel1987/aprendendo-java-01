@@ -13,8 +13,7 @@ public class ArraysList {
 
         // Lista de idades
         ArrayList<Integer> idades = new ArrayList<>();
-        idades.add(25);
-        
+        idades.add(25);        
         idades.add(2);
         idades.add(22);
 
